@@ -1,6 +1,6 @@
 # Template: worker
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Aluisyo/templates/tree/main/worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Aluisyo/workers-sdk/main/templates/worker)
 
 A simple template for kick starting a Cloudflare worker project.
 
